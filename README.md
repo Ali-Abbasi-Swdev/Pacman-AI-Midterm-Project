@@ -106,13 +106,13 @@ planned step, not a complete route to Pacman.
 3. Clone the repository:
 
    ```sh
-   git clone https://github.com/aliabbasi-sketch/pacman-ai-search.git
+   git clone https://github.com/Ali-Abbasi-Swdev/Pacman-AI-Midterm-Project.git
    ```
 
 4. Open the project directory:
 
    ```sh
-   cd pacman-ai-search
+   cd Pacman-AI-Midterm-Project
    ```
 
 5. Run the game:
